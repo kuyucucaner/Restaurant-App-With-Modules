@@ -1,6 +1,6 @@
 # 🍽️ Restaurant App With Modules
 
-**Restaurant App With Modules** is a simple and modular restaurant website built using vanilla JavaScript, HTML, and CSS. It features a multi-page layout (Home, Menu, Contact) managed dynamically through JavaScript modules.
+**Restaurant App With Modules** is a simple and modular restaurant website built using vanilla JavaScript, HTML, and CSS. It features a multi-page layout (Home, Menu, Contact) managed dynamically through JavaScript modules. 
 
 ---
 
